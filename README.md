@@ -20,7 +20,6 @@ Mouse: a serpente segue o cursor; clique esquerdo/Espaço = dash; Ctrl = devagar
 Cores, padrões, olhos, acessórios e rastros (liberados com os pontos somados).
 
 ## Professor
-Senha **941587** (ou prof123): modo livre, liberar acessórios, lista de palavras da turma, limpar ranking.
+Senha prof123: modo livre, liberar acessórios, lista de palavras da turma, limpar ranking.
 
-## Publicar
-Envie todos os arquivos para o repositório e ative GitHub Pages. Funciona offline (PWA).
+Funciona offline (PWA).
